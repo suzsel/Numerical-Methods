@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c060d4b7-c45a-49f6-bb41-5fee20c2643c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NumericalMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animations/dichotomy1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animations/dichotomy2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dichotomy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dichotomy2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curvature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,28 +23,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2jWmlNElVXs0sebK68YnddKJnyD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.dichotomy.executor": "Run",
-    "Python.dichotomy2.executor": "Run",
-    "Python.dipole_antenna.executor": "Run",
-    "Python.double_pendulum.executor": "Run",
-    "Python.dp_single.executor": "Run",
-    "Python.newton.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ilyan/DomainColoring"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.curv2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.curvature.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deformation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dichotomy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dichotomy2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dipole_antenna.executor&quot;: &quot;Run&quot;,
+    &quot;Python.double_pendulum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dp_single.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newton.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ilyan/DomainColoring&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ilyan\Python\NumericalMethods\animations" />
